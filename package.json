@@ -1,0 +1,26 @@
+{
+  "name": "test5-project",
+  "version": "1.0.0",
+  "description": "test5_aur project",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aramayissuny/test5.git"
+  },
+  "keywords": [
+    "test5"
+  ],
+  "author": "aramayis antonyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aramayissuny/test5/issues"
+  },
+  "homepage": "https://github.com/aramayissuny/test5#readme"
+}
